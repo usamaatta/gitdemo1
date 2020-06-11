@@ -1,5 +1,5 @@
 # Git Demo Project 
-######I am a profectional git developer
+###### I am a profectional git developer
 
 ~~ I can Read any type of Code ~~
  
@@ -10,5 +10,7 @@
 Clone 
 make some changes
 create pull request
-foke```
+foke
+
+```
 
